@@ -1,0 +1,1 @@
+# cosmosdb-table-rbac
